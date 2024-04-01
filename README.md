@@ -1,5 +1,5 @@
 # Projeto site Noticias Cidade.
-Site de estudo para aprimoramentos de habilidades.
+Site de estudo para aprimoramento de habilidades.
 Links ativos
 - Home
 - Brasil
